@@ -61,7 +61,17 @@ else {
 	$links = @{}
 }
 
+$i = [double]0
+$total = [double](($devices | measure-object).Count)
+
+
 foreach ($device in $devices) {
+	$i++
+	$percentComplete = [System.Int32]([int]($i * 100 / $total))
+	write-host $percentComplete
+
+	Write-Progress -Activity "Downloading" -PercentComplete $percentComplete -Status "$percentComplete %"
+
 	$key = "$($device.id)"
 	
 	if (-not ($links.ContainsKey($key))) {
