@@ -17,7 +17,7 @@ function downloadFile {
 	$file = $uri.Replace("https://", "").Replace("http://", "") 
 
 	if (Test-Path $file) {
-		write-host -ForegroundColor "yellow" "$uri - ok"
+		write-host -ForegroundColor "yellow" "$uri - exist"
 	}
 	else {
 		$fileName = ($file -split '/')[-1] + ".tmp"
