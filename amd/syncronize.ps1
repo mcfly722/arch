@@ -23,7 +23,14 @@ function downloadFile {
 		$fileName = ($file -split '/')[-1] + ".tmp"
 		$folder = $file.replace(($file -split '/')[-1], '')
 
-		invoke-webrequest $uri -headers $headers -DisableKeepAlive -outfile $fileName
+		try {
+			invoke-webrequest $uri -headers $headers -DisableKeepAlive -outfile $fileName
+		}
+		catch {
+			write-host -ForegroundColor "red" "download error for $uri - $_"
+			return
+		}
+
 		try {
 			New-Item -ItemType "directory" -Path $folder | Out-Null
 		}
