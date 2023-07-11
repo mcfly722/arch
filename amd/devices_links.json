@@ -1,0 +1,1278 @@
+{
+  "21211": {
+    "link": "/en/support/graphics/amd-radeon-6000m-series/amd-radeon-rx-6000m-series/amd-radeon-rx-6800m",
+    "name": "AMD Radeon RX 6800M"
+  },
+  "6166": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7430m",
+    "name": "AMD Radeon HD 7430M"
+  },
+  "5901": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-300-series/amd-radeon-r7-350",
+    "name": "AMD Radeon R7 350"
+  },
+  "6211": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6830m",
+    "name": "AMD Radeon HD 6830M"
+  },
+  "22766": {
+    "link": "/en/support/graphics/amd-radeon-rx-6000m-series/amd-radeon-rx-6000m-series/amd-radeon-rx-6500m",
+    "name": "AMD Radeon RX 6500M"
+  },
+  "6321": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-5000-series/ati-mobility-radeon-hd-5730",
+    "name": "ATI Mobility Radeon HD 5730"
+  },
+  "4811": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-m290x",
+    "name": "AMD Radeon R9 M290X"
+  },
+  "8446": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-500x-series/radeon-540x",
+    "name": "Radeon 540X"
+  },
+  "11916": {
+    "link": "/en/support/graphics/amd-radeon-5700-series/amd-radeon-rx-5700-series/amd-radeon-rx-5700-xt",
+    "name": "AMD Radeon RX 5700 XT"
+  },
+  "6246": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6530m",
+    "name": "AMD Radeon HD 6530M"
+  },
+  "4911": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-200-series/amd-radeon-r7-m260",
+    "name": "AMD Radeon R7 M260"
+  },
+  "6126": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7590m",
+    "name": "AMD Radeon HD 7590M"
+  },
+  "4871": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-300-series/amd-radeon-r7-m360",
+    "name": "AMD Radeon R7 M360"
+  },
+  "1206": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-5000-series/ati-radeon-hd-5870",
+    "name": "ATI Radeon HD 5870"
+  },
+  "4771": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-m385x",
+    "name": "AMD Radeon R9 M385X"
+  },
+  "1091": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-295x2",
+    "name": "AMD Radeon R9 295X2"
+  },
+  "881": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000-series/amd-radeon-hd-6870",
+    "name": "AMD Radeon HD 6870"
+  },
+  "18631": {
+    "link": "/en/support/graphics/amd-radeon-6000-series/amd-radeon-6800-series/amd-radeon-rx-6800",
+    "name": "AMD Radeon RX 6800"
+  },
+  "5956": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000-series-oem/amd-radeon-hd-8970",
+    "name": "AMD Radeon HD 8970"
+  },
+  "15951": {
+    "link": "/en/support/graphics/amd-radeon-5000m-series/amd-radeon-rx-5000m-series/amd-radeon-rx-5600m",
+    "name": "AMD Radeon RX 5600M"
+  },
+  "6111": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7650m",
+    "name": "AMD Radeon HD 7650M"
+  },
+  "1871": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-580",
+    "name": "Radeon RX 580"
+  },
+  "26266": {
+    "link": "/en/support/graphics/amd-radeon-rx-7000m-series/amd-radeon-rx-7000m-series/amd-radeon-rx-7600m",
+    "name": "AMD Radeon RX 7600M"
+  },
+  "1876": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-570",
+    "name": "Radeon RX 570"
+  },
+  "4846": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-300-series/amd-radeon-r7-m380",
+    "name": "AMD Radeon R7 M380"
+  },
+  "5331": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8870m-series-gpu",
+    "name": "AMD Radeon HD 8870M Series GPU"
+  },
+  "26011": {
+    "link": "/en/support/graphics/amd-radeon-rx-7000-series/amd-radeon-rx-7900-series/amd-radeon-rx-7900xt",
+    "name": "AMD Radeon RX 7900 XT"
+  },
+  "5281": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8590m-series-gpu",
+    "name": "AMD Radeon HD 8590M Series GPU"
+  },
+  "22791": {
+    "link": "/en/support/graphics/amd-radeon-rx-6000s-series/amd-radeon-rx-6000s-series/amd-radeon-rx-6700s",
+    "name": "AMD Radeon RX 6700S"
+  },
+  "6001": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000-series-oem/amd-radeon-hd-8470",
+    "name": "AMD Radeon HD 8470"
+  },
+  "22441": {
+    "link": "/en/support/graphics/amd-radeon-6000-series/amd-radeon-6600-series/amd-radeon-rx-6600",
+    "name": "AMD Radeon RX 6600"
+  },
+  "4766": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-m390",
+    "name": "AMD Radeon R9 M390"
+  },
+  "6226": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6650m",
+    "name": "AMD Radeon HD 6650M"
+  },
+  "4921": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-300-series/amd-radeon-r5-m335x",
+    "name": "AMD Radeon R5 M335X"
+  },
+  "1026": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-200-series/amd-radeon-r7-265",
+    "name": "AMD Radeon R7 265"
+  },
+  "876": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000-series/amd-radeon-hd-6850",
+    "name": "AMD Radeon HD 6850"
+  },
+  "1056": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-270",
+    "name": "AMD Radeon R9 270"
+  },
+  "5991": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000-series-oem/amd-radeon-hd-8570",
+    "name": "AMD Radeon HD 8570"
+  },
+  "5986": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000-series-oem/amd-radeon-hd-8670",
+    "name": "AMD Radeon HD 8670"
+  },
+  "4936": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-300-series/amd-radeon-r5-m320",
+    "name": "AMD Radeon R5 M320"
+  },
+  "13046": {
+    "link": "/en/support/graphics/radeon-600-series/radeon-600-series/radeon-625",
+    "name": "Radeon 625"
+  },
+  "5926": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-300-series/amd-radeon-r5-340",
+    "name": "AMD Radeon R5 340"
+  },
+  "6201": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6870m",
+    "name": "AMD Radeon HD 6870M"
+  },
+  "6366": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4870-x2",
+    "name": "ATI Radeon HD 4870 X2"
+  },
+  "951": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7950",
+    "name": "AMD Radeon HD 7950"
+  },
+  "1151": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-5000-series/ati-radeon-hd-5450",
+    "name": "ATI Radeon HD 5450"
+  },
+  "4966": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-200-series/amd-radeon-r5-m230",
+    "name": "AMD Radeon R5 M230"
+  },
+  "1066": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-280",
+    "name": "AMD Radeon R9 280"
+  },
+  "5286": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8570m-series-gpu",
+    "name": "AMD Radeon HD 8570M Series GPU"
+  },
+  "921": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7770-ghz-edition",
+    "name": "AMD Radeon HD 7770 GHz Edition"
+  },
+  "6136": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7550m",
+    "name": "AMD Radeon HD 7550M"
+  },
+  "4836": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-m270x",
+    "name": "AMD Radeon R9 M270X"
+  },
+  "1006": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-200-series/amd-radeon-r7-250",
+    "name": "AMD Radeon R7 250"
+  },
+  "1216": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-5000-series/ati-radeon-hd-5970",
+    "name": "ATI Radeon HD 5970"
+  },
+  "866": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000-series/amd-radeon-hd-6770",
+    "name": "AMD Radeon HD 6770"
+  },
+  "5881": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-400-series/amd-radeon-r7-m460",
+    "name": "AMD Radeon R7 M460"
+  },
+  "21216": {
+    "link": "/en/support/graphics/amd-radeon-6000m-series/amd-radeon-rx-6000m-series/amd-radeon-rx-6700m",
+    "name": "AMD Radeon RX 6700M"
+  },
+  "21221": {
+    "link": "/en/support/graphics/amd-radeon-6000m-series/amd-radeon-rx-6000m-series/amd-radeon-rx-6600m",
+    "name": "AMD Radeon RX 6600M"
+  },
+  "6336": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-5000-series/ati-mobility-radeon-hd-5450",
+    "name": "ATI Mobility Radeon HD 5450"
+  },
+  "896": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000-series/amd-radeon-hd-6970",
+    "name": "AMD Radeon HD 6970"
+  },
+  "6176": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000-series/amd-radeon-hd-6930",
+    "name": "AMD Radeon HD 6930"
+  },
+  "891": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000-series/amd-radeon-hd-6950",
+    "name": "AMD Radeon HD 6950"
+  },
+  "1106": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-380x",
+    "name": "AMD Radeon R9 380X"
+  },
+  "6036": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7570",
+    "name": "AMD Radeon HD 7570"
+  },
+  "961": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7970-ghz-edition",
+    "name": "AMD Radeon HD 7970 GHz Edition"
+  },
+  "1016": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-200-series/amd-radeon-r7-260",
+    "name": "AMD Radeon R7 260"
+  },
+  "6281": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6330m",
+    "name": "AMD Radeon HD 6330M"
+  },
+  "4941": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-300-series/amd-radeon-r5-m315",
+    "name": "AMD Radeon R5 M315"
+  },
+  "8431": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-rx-500x-series/radeon-rx-560x",
+    "name": "Radeon RX 560X"
+  },
+  "1136": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-fury-series/amd-radeon-r9-nano",
+    "name": "AMD Radeon R9 Nano"
+  },
+  "4861": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-300-series/amd-radeon-r7-m365x",
+    "name": "AMD Radeon R7 M365X"
+  },
+  "1891": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-540",
+    "name": "Radeon RX 540"
+  },
+  "4776": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-m385",
+    "name": "AMD Radeon R9 M385"
+  },
+  "6376": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4860",
+    "name": "ATI Radeon HD 4860"
+  },
+  "5851": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-370x",
+    "name": "AMD Radeon R9 370X"
+  },
+  "24891": {
+    "link": "/en/support/graphics/amd-radeon-rx-6000-series/amd-radeon-rx-6700-series/amd-radeon-rx-6700",
+    "name": "AMD Radeon RX 6700"
+  },
+  "5861": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-360",
+    "name": "AMD Radeon R9 360"
+  },
+  "6326": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-5000-series/ati-mobility-radeon-hd-5650",
+    "name": "ATI Mobility Radeon HD 5650"
+  },
+  "956": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7970",
+    "name": "AMD Radeon HD 7970"
+  },
+  "6171": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000-series/amd-radeon-hd-6990",
+    "name": "AMD Radeon HD 6990"
+  },
+  "18646": {
+    "link": "/en/support/graphics/amd-radeon-6000-series/amd-radeon-6900-series/amd-radeon-rx-6900-xt",
+    "name": "AMD Radeon RX 6900 XT"
+  },
+  "5301": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8730m-series-gpu",
+    "name": "AMD Radeon HD 8730M Series GPU"
+  },
+  "6031": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7670",
+    "name": "AMD Radeon HD 7670"
+  },
+  "22126": {
+    "link": "/en/support/graphics/amd-radeon-6000-series/amd-radeon-6600-series/amd-radeon-rx-6600-xt",
+    "name": "AMD Radeon RX 6600 XT"
+  },
+  "23371": {
+    "link": "/en/support/graphics/amd-radeon-rx-6000-series/amd-radeon-rx-6400-series/amd-radeon-rx-6400",
+    "name": "AMD Radeon RX 6400"
+  },
+  "1886": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-550",
+    "name": "Radeon RX 550"
+  },
+  "4831": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-m275x",
+    "name": "AMD Radeon R9 M275X"
+  },
+  "5976": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000-series-oem/amd-radeon-hd-8760",
+    "name": "AMD Radeon HD 8760"
+  },
+  "5966": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000-series-oem/amd-radeon-hd-8870",
+    "name": "AMD Radeon HD 8870"
+  },
+  "23961": {
+    "link": "/en/support/graphics/amd-radeon-rx-6000-series/amd-radeon-rx-6600-series/amd-radeon-rx-6650-xt",
+    "name": "AMD Radeon RX 6650 XT"
+  },
+  "5296": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8690m-series-gpu",
+    "name": "AMD Radeon HD 8690M Series GPU"
+  },
+  "4931": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-300-series/amd-radeon-r5-m330",
+    "name": "AMD Radeon R5 M330"
+  },
+  "1171": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-5000-series/ati-radeon-hd-5670",
+    "name": "ATI Radeon HD 5670"
+  },
+  "5921": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-400-series/amd-radeon-r5-m420",
+    "name": "AMD Radeon R5 M420"
+  },
+  "4826": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-m280",
+    "name": "AMD Radeon R9 M280"
+  },
+  "4751": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-m395x",
+    "name": "AMD Radeon R9 M395X"
+  },
+  "941": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7870-ghz-edition",
+    "name": "AMD Radeon HD 7870 GHz Edition"
+  },
+  "26271": {
+    "link": "/en/support/graphics/amd-radeon-rx-7000s-series/amd-radeon-rx-7000s-series/amd-radeon-rx-7700s",
+    "name": "AMD Radeon RX 7700S"
+  },
+  "841": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000-series/amd-radeon-hd-6570",
+    "name": "AMD Radeon HD 6570"
+  },
+  "1186": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-5000-series/ati-radeon-hd-5770",
+    "name": "ATI Radeon HD 5770"
+  },
+  "4876": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-300-series/amd-radeon-r7-m350",
+    "name": "AMD Radeon R7 M350"
+  },
+  "6026": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7870-xt",
+    "name": "AMD Radeon HD 7870 XT"
+  },
+  "6141": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7530m",
+    "name": "AMD Radeon HD 7530M"
+  },
+  "15966": {
+    "link": "/en/support/graphics/amd-radeon-5600-series/amd-radeon-rx-5600-series/amd-radeon-rx-5600-xt",
+    "name": "AMD Radeon RX 5600 XT"
+  },
+  "6041": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7510",
+    "name": "AMD Radeon HD 7510"
+  },
+  "6081": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7770m",
+    "name": "AMD Radeon HD 7770M"
+  },
+  "6261": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6450m",
+    "name": "AMD Radeon HD 6450M"
+  },
+  "8151": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-400-series/amd-radeon-r7-m465x",
+    "name": "AMD Radeon R7 M465X"
+  },
+  "6106": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7670m",
+    "name": "AMD Radeon HD 7670M"
+  },
+  "916": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7750",
+    "name": "AMD Radeon HD 7750"
+  },
+  "6051": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7450",
+    "name": "AMD Radeon HD 7450"
+  },
+  "1246": {
+    "link": "/en/support/graphics/radeon-400-series/radeon-rx-400-series/radeon-rx-460",
+    "name": "Radeon RX 460"
+  },
+  "911": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7730",
+    "name": "AMD Radeon HD 7730"
+  },
+  "22771": {
+    "link": "/en/support/graphics/amd-radeon-rx-6000m-series/amd-radeon-rx-6000m-series/amd-radeon-rx-6300m",
+    "name": "AMD Radeon RX 6300M"
+  },
+  "1011": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-200-series/amd-radeon-r7-250x",
+    "name": "AMD Radeon R7 250X"
+  },
+  "6371": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4870",
+    "name": "ATI Radeon HD 4870"
+  },
+  "4946": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-200-series/amd-radeon-r5-m255x",
+    "name": "AMD Radeon R5 M255X"
+  },
+  "5316": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8790m-series-gpu",
+    "name": "AMD Radeon HD 8790M Series GPU"
+  },
+  "1061": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-270x",
+    "name": "AMD Radeon R9 270X"
+  },
+  "4851": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-300-series/amd-radeon-r7-m375",
+    "name": "AMD Radeon R7 M375"
+  },
+  "23971": {
+    "link": "/en/support/graphics/amd-radeon-rx-6000-series/amd-radeon-rx-6900-series/amd-radeon-rx-6950-xt",
+    "name": "AMD Radeon RX 6950 XT"
+  },
+  "6131": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7570m",
+    "name": "AMD Radeon HD 7570M"
+  },
+  "5941": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-200-series/amd-radeon-r5-235x",
+    "name": "AMD Radeon R5 235X"
+  },
+  "6331": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-5000-series/ati-mobility-radeon-hd-5470",
+    "name": "ATI Mobility Radeon HD 5470"
+  },
+  "6121": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7610m",
+    "name": "AMD Radeon HD 7610M"
+  },
+  "4816": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-m285x",
+    "name": "AMD Radeon R9 M285X"
+  },
+  "1941": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-500-series/radeon-530",
+    "name": "Radeon 530"
+  },
+  "5906": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-300-series/amd-radeon-r7-340",
+    "name": "AMD Radeon R7 340"
+  },
+  "8436": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-rx-500x-series/radeon-rx-550x",
+    "name": "Radeon RX 550X"
+  },
+  "6296": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-5000-series/ati-mobility-radeon-hd-5870",
+    "name": "ATI Mobility Radeon HD 5870"
+  },
+  "1201": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-5000-series/ati-radeon-hd-5850",
+    "name": "ATI Radeon HD 5850"
+  },
+  "2901": {
+    "link": "/en/support/graphics/radeon-rx-vega-series/radeon-rx-vega-series/radeon-rx-vega-64",
+    "name": "Radeon RX Vega 64"
+  },
+  "6006": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000-series-oem/amd-radeon-hd-8350",
+    "name": "AMD Radeon HD 8350"
+  },
+  "1181": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-5000-series/ati-radeon-hd-5750",
+    "name": "ATI Radeon HD 5750"
+  },
+  "6231": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6630m",
+    "name": "AMD Radeon HD 6630M"
+  },
+  "6316": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-5000-series/ati-mobility-radeon-hd-5750",
+    "name": "ATI Mobility Radeon HD 5750"
+  },
+  "2896": {
+    "link": "/en/support/graphics/radeon-rx-vega-series/radeon-rx-vega-series/radeon-rx-vega-56",
+    "name": "Radeon RX Vega 56"
+  },
+  "6301": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-5000-series/ati-mobility-radeon-hd-5850",
+    "name": "ATI Mobility Radeon HD 5850"
+  },
+  "5996": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000-series-oem/amd-radeon-hd-8490",
+    "name": "AMD Radeon HD 8490"
+  },
+  "4906": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-200-series/amd-radeon-r7-m260x",
+    "name": "AMD Radeon R7 M260X"
+  },
+  "1111": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-390",
+    "name": "AMD Radeon R9 390"
+  },
+  "8126": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-500-series/radeon-540",
+    "name": "Radeon 540"
+  },
+  "1081": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-290",
+    "name": "AMD Radeon R9 290"
+  },
+  "1116": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-390x",
+    "name": "AMD Radeon R9 390X"
+  },
+  "4761": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-m390x",
+    "name": "AMD Radeon R9 M390X"
+  },
+  "936": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7850",
+    "name": "AMD Radeon HD 7850"
+  },
+  "8461": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-500-series/radeon-550",
+    "name": "Radeon 550"
+  },
+  "6216": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6770m",
+    "name": "AMD Radeon HD 6770M"
+  },
+  "4801": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-m360",
+    "name": "AMD Radeon R9 M360"
+  },
+  "1946": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-500-series/radeon-520",
+    "name": "Radeon 520"
+  },
+  "22786": {
+    "link": "/en/support/graphics/amd-radeon-rx-6000s-series/amd-radeon-rx-6000s-series/amd-radeon-rx-6800s",
+    "name": "AMD Radeon RX 6800S"
+  },
+  "1256": {
+    "link": "/en/support/graphics/radeon-400-series/radeon-rx-400-series/radeon-rx-480",
+    "name": "Radeon RX 480"
+  },
+  "5291": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8670m-series-gpu",
+    "name": "AMD Radeon HD 8670M Series GPU"
+  },
+  "4901": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-200-series/amd-radeon-r7-m265",
+    "name": "AMD Radeon R7 M265"
+  },
+  "5871": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-400-series/amd-radeon-r7-m465",
+    "name": "AMD Radeon R7 M465"
+  },
+  "6156": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7470m",
+    "name": "AMD Radeon HD 7470M"
+  },
+  "27886": {
+    "link": "/en/support/graphics/amd-radeon-rx-7000-series/amd-radeon-rx-7600-series/amd-radeon-rx-7600",
+    "name": "AMD Radeon RX 7600"
+  },
+  "6096": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7690m-xt",
+    "name": "AMD Radeon HD 7690M XT"
+  },
+  "6251": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6490m",
+    "name": "AMD Radeon HD 6490M"
+  },
+  "23966": {
+    "link": "/en/support/graphics/amd-radeon-rx-6000-series/amd-radeon-rx-6700-series/amd-radeon-rx-6750-xt",
+    "name": "AMD Radeon RX 6750 XT"
+  },
+  "6151": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7490m",
+    "name": "AMD Radeon HD 7490M"
+  },
+  "4956": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-200-series/amd-radeon-r5-m240x",
+    "name": "AMD Radeon R5 M240X"
+  },
+  "18356": {
+    "link": "/en/support/graphics/amd-radeon-5300-series/amd-radeon-rx-5300-series/amd-radeon-rx-5300",
+    "name": "AMD Radeon RX 5300"
+  },
+  "6046": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7470",
+    "name": "AMD Radeon HD 7470"
+  },
+  "6351": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-5000-series/ati-mobility-radeon-hd-5145",
+    "name": "ATI Mobility Radeon HD 5145"
+  },
+  "1161": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-5000-series/ati-radeon-hd-5570",
+    "name": "ATI Radeon HD 5570"
+  },
+  "15561": {
+    "link": "/en/support/graphics/amd-radeon-5000m-series/amd-radeon-rx-5000m-series/amd-radeon-rx-5300m",
+    "name": "AMD Radeon RX 5300M"
+  },
+  "13036": {
+    "link": "/en/support/graphics/radeon-600-series/radeon-600-series/radeon-rx-640",
+    "name": "Radeon RX 640"
+  },
+  "6266": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6430m",
+    "name": "AMD Radeon HD 6430M"
+  },
+  "8426": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-rx-500x-series/radeon-rx-570x",
+    "name": "Radeon RX 570X"
+  },
+  "6286": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-5000-series/ati-radeon-hd-5550",
+    "name": "ATI Radeon HD 5550"
+  },
+  "6306": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-5000-series/ati-mobility-radeon-hd-5830",
+    "name": "ATI Mobility Radeon HD 5830"
+  },
+  "4951": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-200-series/amd-radeon-r5-m255",
+    "name": "AMD Radeon R5 M255"
+  },
+  "4856": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-300-series/amd-radeon-r7-m370",
+    "name": "AMD Radeon R7 M370"
+  },
+  "13056": {
+    "link": "/en/support/graphics/radeon-600-series/radeon-600-series/radeon-610",
+    "name": "Radeon 610"
+  },
+  "5321": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8830m-series-gpu",
+    "name": "AMD Radeon HD 8830M Series GPU"
+  },
+  "15946": {
+    "link": "/en/support/graphics/amd-radeon-5000m-series/amd-radeon-rx-5000m-series/amd-radeon-rx-5700m",
+    "name": "AMD Radeon RX 5700M"
+  },
+  "4881": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-300-series/amd-radeon-r7-m340",
+    "name": "AMD Radeon R7 M340"
+  },
+  "1101": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-380",
+    "name": "AMD Radeon R9 380"
+  },
+  "6276": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6350m",
+    "name": "AMD Radeon HD 6350M"
+  },
+  "2931": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-200-series/amd-radeon-r5-220",
+    "name": "AMD Radeon R5 220"
+  },
+  "4781": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-m380",
+    "name": "AMD Radeon R9 M380"
+  },
+  "4886": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-200-series/amd-radeon-r7-m270",
+    "name": "AMD Radeon R7 M270"
+  },
+  "6341": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-5000-series/ati-mobility-radeon-hd-5430",
+    "name": "ATI Mobility Radeon HD 5430"
+  },
+  "6221": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6730m",
+    "name": "AMD Radeon HD 6730M"
+  },
+  "5936": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-200-series/amd-radeon-r5-240",
+    "name": "AMD Radeon R5 240"
+  },
+  "5971": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000-series-oem/amd-radeon-hd-8770",
+    "name": "AMD Radeon HD 8770"
+  },
+  "26281": {
+    "link": "/en/support/graphics/amd-radeon-rx-6000m-series/amd-radeon-rx-6000m-series/amd-radeon-rx-6550m",
+    "name": "AMD Radeon RX 6550M"
+  },
+  "926": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7790",
+    "name": "AMD Radeon HD 7790"
+  },
+  "831": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000-series/amd-radeon-hd-6450",
+    "name": "AMD Radeon HD 6450"
+  },
+  "5336": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8970m-series-gpu",
+    "name": "AMD Radeon HD 8970M Series GPU"
+  },
+  "6011": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8630m-series-gpu",
+    "name": "AMD Radeon HD 8630M Series GPU"
+  },
+  "11921": {
+    "link": "/en/support/graphics/amd-radeon-5700-series/amd-radeon-rx-5700-series/amd-radeon-rx-5700",
+    "name": "AMD Radeon RX 5700"
+  },
+  "6086": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7750m",
+    "name": "AMD Radeon HD 7750M"
+  },
+  "1076": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-285",
+    "name": "AMD Radeon R9 285"
+  },
+  "986": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-200-series/amd-radeon-r5-235",
+    "name": "AMD Radeon R5 235"
+  },
+  "8451": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-500x-series/radeon-550x",
+    "name": "Radeon 550X"
+  },
+  "4806": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-m295x",
+    "name": "AMD Radeon R9 M295X"
+  },
+  "6056": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7350",
+    "name": "AMD Radeon HD 7350"
+  },
+  "15836": {
+    "link": "/en/support/graphics/amd-radeon-5500-series/amd-radeon-rx-5500-series/amd-radeon-rx-5500-xt",
+    "name": "AMD Radeon RX 5500 XT"
+  },
+  "6101": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7690m",
+    "name": "AMD Radeon HD 7690M"
+  },
+  "1126": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-fury-series/amd-radeon-r9-fury",
+    "name": "AMD Radeon R9 Fury"
+  },
+  "7821": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-500-series/radeon-535",
+    "name": "Radeon 535"
+  },
+  "5961": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000-series-oem/amd-radeon-hd-8950",
+    "name": "AMD Radeon HD 8950"
+  },
+  "851": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000-series/amd-radeon-hd-6670",
+    "name": "AMD Radeon HD 6670"
+  },
+  "1086": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-290x",
+    "name": "AMD Radeon R9 290X"
+  },
+  "5306": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8750m-series-gpu",
+    "name": "AMD Radeon HD 8750M Series GPU"
+  },
+  "4786": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-m375x",
+    "name": "AMD Radeon R9 M375X"
+  },
+  "13041": {
+    "link": "/en/support/graphics/radeon-600-series/radeon-600-series/radeon-630",
+    "name": "Radeon 630"
+  },
+  "966": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7990",
+    "name": "AMD Radeon HD 7990"
+  },
+  "6236": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6570m",
+    "name": "AMD Radeon HD 6570M"
+  },
+  "6071": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7870m",
+    "name": "AMD Radeon HD 7870M"
+  },
+  "6181": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000-series/amd-radeon-hd-6790",
+    "name": "AMD Radeon HD 6790"
+  },
+  "15406": {
+    "link": "/en/support/graphics/amd-radeon-5500-series/amd-radeon-rx-5500-series/amd-radeon-rx-5500",
+    "name": "AMD Radeon RX 5500"
+  },
+  "8421": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-rx-500x-series/radeon-rx-580x",
+    "name": "Radeon RX 580X"
+  },
+  "1131": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-fury-series/amd-radeon-r9-fury-x",
+    "name": "AMD Radeon R9 Fury X"
+  },
+  "981": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-200-series/amd-radeon-r5-230",
+    "name": "AMD Radeon R5 230"
+  },
+  "5931": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-300-series/amd-radeon-r5-330",
+    "name": "AMD Radeon R5 330"
+  },
+  "1021": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-200-series/amd-radeon-r7-260x",
+    "name": "AMD Radeon R7 260X"
+  },
+  "5891": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-400-series/amd-radeon-r7-m440",
+    "name": "AMD Radeon R7 M440"
+  },
+  "5886": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-400-series/amd-radeon-r7-m445",
+    "name": "AMD Radeon R7 M445"
+  },
+  "1041": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-300-series/amd-radeon-r7-370",
+    "name": "AMD Radeon R7 370"
+  },
+  "26261": {
+    "link": "/en/support/graphics/amd-radeon-rx-7000m-series/amd-radeon-rx-7000m-series/amd-radeon-rx-7600m-xt",
+    "name": "AMD Radeon RX 7600M XT"
+  },
+  "6146": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7510m",
+    "name": "AMD Radeon HD 7510M"
+  },
+  "4866": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-300-series/amd-radeon-r7-m365",
+    "name": "AMD Radeon R7 M365"
+  },
+  "5326": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8850m-series-gpu",
+    "name": "AMD Radeon HD 8850M Series GPU"
+  },
+  "6066": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7970m",
+    "name": "AMD Radeon HD 7970M"
+  },
+  "6161": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7450m",
+    "name": "AMD Radeon HD 7450M"
+  },
+  "6241": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6550m",
+    "name": "AMD Radeon HD 6550M"
+  },
+  "6271": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6370m",
+    "name": "AMD Radeon HD 6370M"
+  },
+  "4821": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-m280x",
+    "name": "AMD Radeon R9 M280X"
+  },
+  "5981": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000-series-oem/amd-radeon-hd-8730",
+    "name": "AMD Radeon HD 8730"
+  },
+  "1001": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-200-series/amd-radeon-r7-240",
+    "name": "AMD Radeon R7 240"
+  },
+  "18636": {
+    "link": "/en/support/graphics/amd-radeon-6000-series/amd-radeon-6800-series/amd-radeon-rx-6800-xt",
+    "name": "AMD Radeon RX 6800 XT"
+  },
+  "23366": {
+    "link": "/en/support/graphics/amd-radeon-rx-6000-series/amd-radeon-rx-6500-series/amd-radeon-rx-6500-xt",
+    "name": "AMD Radeon RX 6500 XT"
+  },
+  "4791": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-m375",
+    "name": "AMD Radeon R9 M375"
+  },
+  "5311": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8770m-series-gpu",
+    "name": "AMD Radeon HD 8770M Series GPU"
+  },
+  "15411": {
+    "link": "/en/support/graphics/amd-radeon-5500-series/amd-radeon-rx-5500-series/amd-radeon-rx-5500m",
+    "name": "AMD Radeon RX 5500M"
+  },
+  "6196": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6990m",
+    "name": "AMD Radeon HD 6990M"
+  },
+  "6021": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000m-series/amd-radeon-hd-8550m-series-gpu",
+    "name": "AMD Radeon HD 8550M Series GPU"
+  },
+  "1251": {
+    "link": "/en/support/graphics/radeon-400-series/radeon-rx-400-series/radeon-rx-470",
+    "name": "Radeon RX 470"
+  },
+  "4961": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-200-series/amd-radeon-r5-m240",
+    "name": "AMD Radeon R5 M240"
+  },
+  "6206": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6850m",
+    "name": "AMD Radeon HD 6850M"
+  },
+  "19896": {
+    "link": "/en/support/graphics/amd-radeon-6000-series/amd-radeon-6700-series/amd-radeon-rx-6700-xt",
+    "name": "AMD Radeon RX 6700 XT"
+  },
+  "9496": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-590",
+    "name": "Radeon RX 590"
+  },
+  "1071": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-280x",
+    "name": "AMD Radeon R9 280X"
+  },
+  "6256": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000m-series/amd-radeon-hd-6470m",
+    "name": "AMD Radeon HD 6470M"
+  },
+  "8441": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-rx-500x-series/radeon-rx-540x",
+    "name": "Radeon RX 540X"
+  },
+  "6091": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7730m",
+    "name": "AMD Radeon HD 7730M"
+  },
+  "4891": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-200-series/amd-radeon-r7-m265x",
+    "name": "AMD Radeon R7 M265X"
+  },
+  "5951": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-8000-series-oem/amd-radeon-hd-8990",
+    "name": "AMD Radeon HD 8990"
+  },
+  "6186": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000-series/amd-radeon-hd-6350",
+    "name": "AMD Radeon HD 6350"
+  },
+  "26286": {
+    "link": "/en/support/graphics/amd-radeon-rx-6000m-series/amd-radeon-rx-6000m-series/amd-radeon-rx-6450m",
+    "name": "AMD Radeon RX 6450M"
+  },
+  "6116": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7630m",
+    "name": "AMD Radeon HD 7630M"
+  },
+  "5916": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-400-series/amd-radeon-r5-m430",
+    "name": "AMD Radeon R5 M430"
+  },
+  "6346": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-5000-series/ati-mobility-radeon-hd-5165",
+    "name": "ATI Mobility Radeon HD 5165"
+  },
+  "26276": {
+    "link": "/en/support/graphics/amd-radeon-rx-7000s-series/amd-radeon-rx-7000s-series/amd-radeon-rx-7600s",
+    "name": "AMD Radeon RX 7600S"
+  },
+  "6311": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-5000-series/ati-mobility-radeon-hd-5770",
+    "name": "ATI Mobility Radeon HD 5770"
+  },
+  "11911": {
+    "link": "/en/support/graphics/amd-radeon-5700-series/amd-radeon-rx-5700-series/amd-radeon-rx-5700-xt-50th",
+    "name": "AMD Radeon RX 5700 XT 50th Anniversary"
+  },
+  "5896": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-400-series/amd-radeon-r7-m435",
+    "name": "AMD Radeon R7 M435"
+  },
+  "5856": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-370",
+    "name": "AMD Radeon R9 370"
+  },
+  "26016": {
+    "link": "/en/support/graphics/amd-radeon-rx-7000-series/amd-radeon-rx-7900-series/amd-radeon-rx-7900xtx",
+    "name": "AMD Radeon RX 7900 XTX"
+  },
+  "861": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-6000-series/amd-radeon-hd-6750",
+    "name": "AMD Radeon HD 6750"
+  },
+  "13051": {
+    "link": "/en/support/graphics/radeon-600-series/radeon-600-series/radeon-620",
+    "name": "Radeon 620"
+  },
+  "1881": {
+    "link": "/en/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-560",
+    "name": "Radeon RX 560"
+  },
+  "4841": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-200-series/amd-radeon-r9-m265x",
+    "name": "AMD Radeon R9 M265X"
+  },
+  "6076": {
+    "link": "/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000m-series/amd-radeon-hd-7850m",
+    "name": "AMD Radeon HD 7850M"
+  },
+  "4796": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-m365x",
+    "name": "AMD Radeon R9 M365X"
+  },
+  "6361": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4890",
+    "name": "ATI Radeon HD 4890"
+  },
+  "1036": {
+    "link": "/en/support/graphics/amd-radeon-r7-series/amd-radeon-r7-300-series/amd-radeon-r7-360",
+    "name": "AMD Radeon R7 360"
+  },
+  "10111": {
+    "link": "/en/support/graphics/amd-radeon-2nd-generation-vega/amd-radeon-2nd-generation-vega/amd-radeon-vii",
+    "name": "AMD Radeon VII"
+  },
+  "4756": {
+    "link": "/en/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-m395",
+    "name": "AMD Radeon R9 M395"
+  },
+  "1196": {
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-5000-series/ati-radeon-hd-5830",
+    "name": "ATI Radeon HD 5830"
+  },
+  "4926": {
+    "link": "/en/support/graphics/amd-radeon-r5-series/amd-radeon-r5-300-series/amd-radeon-r5-m335",
+    "name": "AMD Radeon R5 M335"
+  },
+  "6381": {
+    "name": "ATI Radeon HD 4850 X2",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4850-x2"
+  },
+  "6391": {
+    "name": "ATI Radeon HD 4830",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4830"
+  },
+  "6396": {
+    "name": "ATI Radeon HD 4810",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4810"
+  },
+  "6401": {
+    "name": "ATI Radeon HD 4770",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4770"
+  },
+  "6406": {
+    "name": "ATI Radeon HD 4750",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4750"
+  },
+  "6411": {
+    "name": "ATI Radeon HD 4730",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4730"
+  },
+  "6416": {
+    "name": "ATI Radeon HD 4670",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4670"
+  },
+  "6421": {
+    "name": "ATI Radeon HD 4650",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4650"
+  },
+  "6426": {
+    "name": "ATI Radeon HD 4580",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4580"
+  },
+  "6431": {
+    "name": "ATI Radeon HD 4570",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4570"
+  },
+  "6436": {
+    "name": "ATI Radeon HD 4550",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4550"
+  },
+  "6441": {
+    "name": "ATI Radeon HD 4350",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4350"
+  },
+  "6446": {
+    "name": "ATI Radeon HD 4290",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4290"
+  },
+  "6451": {
+    "name": "ATI Radeon HD 4250",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4250"
+  },
+  "6456": {
+    "name": "ATI Radeon HD 4200",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-4000-series/ati-radeon-hd-4200"
+  },
+  "6466": {
+    "name": "ATI Mobility Radeon HD 4870 X2",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4870-x2"
+  },
+  "6471": {
+    "name": "ATI Mobility Radeon HD 4870",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4870"
+  },
+  "6476": {
+    "name": "ATI Mobility Radeon HD 4860",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4860"
+  },
+  "6481": {
+    "name": "ATI Mobility Radeon HD 4850",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4850"
+  },
+  "6486": {
+    "name": "ATI Mobility Radeon HD 4830",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4830"
+  },
+  "6491": {
+    "name": "ATI Mobility Radeon HD 4670",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4670"
+  },
+  "6496": {
+    "name": "ATI Mobility Radeon HD 4650",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4650"
+  },
+  "6501": {
+    "name": "ATI Mobility Radeon HD 4570",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4570"
+  },
+  "6506": {
+    "name": "ATI Mobility Radeon HD 4550",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4550"
+  },
+  "6511": {
+    "name": "ATI Mobility Radeon HD 4530",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4530"
+  },
+  "6516": {
+    "name": "ATI Mobility Radeon HD 4330",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4330"
+  },
+  "6521": {
+    "name": "ATI Mobility Radeon HD 4270",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4270"
+  },
+  "6526": {
+    "name": "ATI Mobility Radeon HD 4250",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4250"
+  },
+  "6531": {
+    "name": "ATI Mobility Radeon HD 4225",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4225"
+  },
+  "6536": {
+    "name": "ATI Mobility Radeon HD 4200",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4200"
+  },
+  "6541": {
+    "name": "ATI Mobility Radeon 4100",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-4100"
+  },
+  "6551": {
+    "name": "ATI Radeon HD 3870 X2",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3870-x2"
+  },
+  "6556": {
+    "name": "ATI Radeon HD 3870",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3870"
+  },
+  "6561": {
+    "name": "ATI Radeon HD 3850 X2",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3850-x2"
+  },
+  "6566": {
+    "name": "ATI Radeon HD 3850",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3850"
+  },
+  "6571": {
+    "name": "ATI Radeon HD 3830",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3830"
+  },
+  "6576": {
+    "name": "ATI Radeon HD 3750",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3750"
+  },
+  "6581": {
+    "name": "ATI Radeon HD 3730",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3730"
+  },
+  "6586": {
+    "name": "ATI Radeon HD 3650",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3650"
+  },
+  "6591": {
+    "name": "ATI Radeon HD 3610",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3610"
+  },
+  "6596": {
+    "name": "ATI Radeon HD 3570",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3570"
+  },
+  "6601": {
+    "name": "ATI Radeon HD 3550",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3550"
+  },
+  "6606": {
+    "name": "ATI Radeon HD 3470",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3470"
+  },
+  "6611": {
+    "name": "ATI Radeon HD 3450",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3450"
+  },
+  "6616": {
+    "name": "ATI Radeon HD 3410",
+    "link": "/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3410"
+  }
+}
