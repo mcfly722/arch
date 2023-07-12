@@ -12,7 +12,7 @@ All scripts supports download resuming.
 *   PowerShell >=7
 <br>
 ## DataSources list
-| Data Source   | Site          |  Size  |
-| ------------- | ------------- | ------ |
-| Advanced Micro Devices (AMD)  | https://www.amd.com | 59000 MB |
-| PCI Device Database  | https://www.pcilookup.com  |  10 MB |
+| Data Source                   | Site                      |  Size    |
+| ----------------------------- |:-------------------------:| -------- |
+| Advanced Micro Devices (AMD)  | https://www.amd.com       | 59000 MB |
+| PCI Device Database           | https://www.pcilookup.com | 10 MB    |
