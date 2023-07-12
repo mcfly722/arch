@@ -8,13 +8,15 @@ This repo contains only scripts, without data. All data you should download by y
 <br>
 All scripts supports download resuming.
 <br>
+
 ### requirements
 *   PowerShell >=7
 <br>
+
 ## Sources list
 <br>
 
-| Data Source                   | Site                      |  Size    |
+| Data Source                   | Site                      | ~Size    |
 |:----------------------------- |:------------------------- | --------:|
 | Advanced Micro Devices (AMD)  | https://www.amd.com       | 59000 MB |
 | PCI Device Database           | https://www.pcilookup.com | 10 MB    |
