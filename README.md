@@ -12,5 +12,7 @@ All scripts supports download resuming.
 *   PowerShell >=7
 <br>
 ## DataSources list
-1. Advanced Micro Devices (AMD)
-2. PCI Device Database
+| Data Source   | Site          |  Size  |
+| ------------- | ------------- | ------ |
+| Advanced Micro Devices (AMD)  | https://www.amd.com | 59000 MB |
+| PCI Device Database  | https://www.pcilookup.com  |  10 MB |
