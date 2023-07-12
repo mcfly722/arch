@@ -97,21 +97,25 @@ foreach ($device in $devices) {
 
 	if ($links.ContainsKey($key) -and ([string]::IsNullOrEmpty($links[$key].downloads))) {
 		$url = "$site" + $links[$key].link
-		$response = invoke-webrequest $url -headers $headers -DisableKeepAlive
-		
-		$tags = ($response.Content | select-string -Pattern '<a (.*)\>' -AllMatches).Matches.Value | Where-Object { $_ -match 'Download' }
-		$downloads = $tags | ForEach-Object { (($_.TrimStart('<a href=').Trim('"') -split '"')[0]) } |  Where-Object { -not ($_ -match 'eula') }
 
-		foreach ($download in $downloads) {
-			write-host "`t$download"
-		}
+		try {
+			$response = invoke-webrequest $url -headers $headers -DisableKeepAlive
+			$tags = ($response.Content | select-string -Pattern '<a (.*)\>' -AllMatches).Matches.Value | Where-Object { $_ -match 'Download' }
+			$downloads = $tags | ForEach-Object { (($_.TrimStart('<a href=').Trim('"') -split '"')[0]) } |  Where-Object { -not ($_ -match 'eula') }
+
+			foreach ($download in $downloads) {
+				write-host "`t$download"
+			}
 		
-		if (-not([string]::IsNullOrEmpty($downloads))) {
-			$links[$key].downloads = $downloads
-			$links | convertTo-json > $stateFile
-			start-sleep $sleepBetweenQueriesSec			
+			if (-not([string]::IsNullOrEmpty($downloads))) {
+				$links[$key].downloads = $downloads
+				$links | convertTo-json > $stateFile
+			}
 		}
-		
+		catch {
+			write-host -ForegroundColor "red" "download error for $url - $_"
+		}
+		start-sleep $sleepBetweenQueriesSec			
 	}
 
 	if ($links.ContainsKey($key) -and (-not([string]::IsNullOrEmpty($links[$key].downloads)))) {
