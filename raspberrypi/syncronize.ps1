@@ -26,7 +26,9 @@ function downloadFile {
 		}
 
 		try {
-			New-Item -ItemType "directory" -Path $folder | Out-Null
+			if (-not(Test-Path $folder)) {
+				New-Item -ItemType "directory" -Path $folder | Out-Null
+			}
 		}
 		catch {}
 		write-host -ForegroundColor "green" "$uri - done"
