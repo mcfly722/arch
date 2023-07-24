@@ -18,7 +18,14 @@ function downloadFile {
 		$folder = $file.replace(($file -split '/')[-1], '')
 
 		try {
-			invoke-webrequest $uri -headers $headers -DisableKeepAlive -outfile $fileName
+			<#
+			$startBitsTransferSplat = @{
+				Source      = $uri
+				Destination = $fileName
+			}
+			Start-BitsTransfer @startBitsTransferSplat
+			#>
+			invoke-webrequest $uri -headers $headers -ContentType "application/octet-stream" -DisableKeepAlive -outfile $fileName
 		}
 		catch {
 			write-host -ForegroundColor "red" "download error for $uri - $_"
