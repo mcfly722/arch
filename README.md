@@ -16,20 +16,22 @@ All scripts supports download resuming.
 ## Sources list
 <br>
 
-| Data Source                   | Type        | Site                      | ~Size    |
-|:----------------------------- |:----------- |:------------------------- | --------:|
-| Wikipedia                     | Docs        | TBD                       | TBD      |
-| Advanced Micro Devices (AMD)  |             | https://www.amd.com       | 59000 MB |
-| PCI Device Database           | Index       | https://www.pcilookup.com | 10 MB    |
-| Raspberry PI images           | Images      | https://raspberrypi.org   |301000 MB |
-| Microsoft                     | Images      | TBD                       | TBD      |
-| Microsoft MSDN                | Docs        | TBD                       | TBD      |
-| Intel                         | Drivers     | TBD                       | TBD      |
-| NVidia                        | Drivers     | TBD                       | TBD      |
-| Midi Collection               | Music       | TBD                       | TBD      |
-| MODs Collection               | Music       | TBD                       | TBD      |
-| Texas Instruments             | Docs        | TBD                       | TBD      |
-| Arduino                       | TBD         | TBD                       | TBD      |
-| MS VSCode                     | TBD         | TBD                       | TBD      |
+| Data Source                   | Type        | Site                                                   | ~Size    |
+|:----------------------------- |:----------- |:------------------------------------------------------ | --------:|
+| Wikipedia                     | Docs        | TBD                                                    | TBD      |
+| Advanced Micro Devices (AMD)  |             | https://www.amd.com                                    | 59000 MB |
+| PCI Device Database           | Index       | https://www.pcilookup.com                              | 10 MB    |
+| Raspberry PI images           | Images      | https://raspberrypi.org                                |301000 MB |
+| Microsoft                     | Images      | TBD                                                    | TBD      |
+| Microsoft MSDN                | Docs        | TBD                                                    | TBD      |
+| Intel                         | Drivers     | TBD                                                    | TBD      |
+| NVidia                        | Drivers     | https://www.nvidia.com/download/index.aspx?lang=en-us  | TBD      |
+| NVidia                        | Tools       | TBD                                                    | TBD      |
+| Midi Collection               | Music       | TBD                                                    | TBD      |
+| MODs Collection               | Music       | TBD                                                    | TBD      |
+| Texas Instruments             | Docs        | TBD                                                    | TBD      |
+| Analog Devices                | Docs        | TBD                                                    | TBD      |
+| Arduino                       | TBD         | TBD                                                    | TBD      |
+| MS VSCode                     | TBD         | TBD                                                    | TBD      |
 
 <br>
